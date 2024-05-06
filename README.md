@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=senoritadeveloper01&theme=nord)](https://github.com/senoritadeveloper01/github-readme-stats)
 
-🔭 My personal GitHub account: [https://github.com/nilseri01](https://github.com/nilseri01).
+🔭 My personal GitHub account: [https://github.com/nilseri01](https://github.com/nilseri01)
 
 ![nilseri01's trophy](https://github-profile-trophy.vercel.app/?username=nilseri01&theme=nord&column=8&margin-w=3&margin-h=15)
 
