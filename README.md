@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ![senoritadeveloper01's trophy](https://github-profile-trophy.vercel.app/?username=senoritadeveloper01&theme=nord&column=8&margin-w=3&margin-h=15)
 
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,angular,react,bootstrap,mysql,cassandra,kafka,rabbitmq,redis,elasticsearch,grafana,prometheus,openstack,docker,jenkins&perline=15" alt="Tech Stack" /> 
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=senoritadeveloper01&theme=nord)](https://github.com/senoritadeveloper01/github-readme-stats)
 
 🔭 My personal GitHub account: [https://github.com/nilseri01](https://github.com/nilseri01).
